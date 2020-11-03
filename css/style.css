@@ -1,0 +1,15 @@
+header{
+    background-color: #0099EE;
+}
+
+#logo-link{
+    float: left;
+}
+
+#logo-link img{
+    width: 140px;
+}
+
+header nav{
+    float: right;
+}
